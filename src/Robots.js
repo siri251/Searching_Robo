@@ -1,0 +1,43 @@
+export const Robots=[
+    {
+        name:'sireesha',
+        id:'1',
+        email:'siree.chellurigmail.com'
+    },
+
+    {
+        name:'sai',
+        id:2,
+        email:'sai.com'
+    },
+    {
+        name:'charan',
+        id:3,
+        email:'charan.com'
+    },
+    {
+        name:'charan',
+        id:4,
+        email:'charan.com'
+    },
+    {
+        name:'charan',
+        id:5,
+        email:'charan.com'
+    },
+    {
+        name:'charan',
+        id:6,
+        email:'charan.com'
+    },
+    {
+        name:'charan',
+        id:7,
+        email:'charan.com'
+    },
+    {
+        name:'charan',
+        id:8,
+        email:'charan.com'
+    }
+]
